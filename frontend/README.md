@@ -30,25 +30,24 @@ To get started with AI-Resume-Builder on your local machine:
 1. **Clone the repository**:
       ```bash
       git clone https://github.com/your-username/ai-resume-builder.git
-
-
+      
 2. **Navigate to the Project Directory:**
-       ```bash
+   ```bash
        cd AI-Resume-Builder
 
 3. **Install Dependencies:**
-     ```bash
+   ```bash
      npm install
      
 4. **Set up environment variables:**
    Create a .env file in the project root and add the necessary environment variables for Strapi, Postgres, Clerk, and other    integrations.
   
 5. **Start the development server:** 
-     ```bash
+   ```bash
      npm run dev
 
 6. **Build the project for production:**
-     ```bash
+   ```bash
      npm run build
 
 
@@ -62,22 +61,22 @@ Export and Share: After customizing the resume, users can export it or share it 
 We welcome contributions to improve AI-Resume-Builder! To get started:
 
 1. **Fork the repository and clone it locally:**
-          ```bash
-          git clone https://github.com/your-username/ai-resume-builder.git
+    ```bash
+    git clone https://github.com/your-username/ai-resume-builder.git
 
-2.**Create a new feature branch:**
-          ```bash
-          git checkout -b feature/your-feature
+2. **Create a new feature branch:**
+    ```bash
+    git checkout -b feature/your-feature
 
-3.**Commit your changes:**
-          ```bash
-          git commit -m "Add new feature"
+3. **Commit your changes:**
+    ```bash
+    git commit -m "Add new feature"
     
-4.**Push the branch to your forked repository:**
-          ```bash
-          git push origin feature/your-feature
+4. **Push the branch to your forked repository:**
+    ```bash
+    git push origin feature/your-feature
 
-5.**Create a Pull Request from your branch to the main branch of the original repository.**
+5. **Create a Pull Request from your branch to the main branch of the original repository.**
 
 ## Contributor Guidelines
 Ensure your code follows the ESLint configuration provided in the project.
