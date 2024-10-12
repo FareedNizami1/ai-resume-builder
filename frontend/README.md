@@ -28,24 +28,24 @@
 To get started with AI-Resume-Builder on your local machine:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/ai-resume-builder.git
+      ```bash
+      git clone https://github.com/your-username/ai-resume-builder.git
 
 
 2. **Navigate to the Project Directory:**
-    ```bash
-    cd AI-Resume-Builder
+       ```bash
+       cd AI-Resume-Builder
 
 3. **Install Dependencies::**
-  ```bash
-  npm install
+     ```bash
+     npm install
      
 4. **Set up environment variables:**
    Create a .env file in the project root and add the necessary environment variables for Strapi, Postgres, Clerk, and other    integrations.
   
 5. **Start the development server:** 
-  ```bash
-  npm run dev
+     ```bash
+     npm run dev
 
 6. **Build the project for production:**
      ```bash
