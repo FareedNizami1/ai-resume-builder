@@ -70,12 +70,10 @@ We welcome contributions to improve AI-Resume-Builder! To get started:
     git checkout -b feature/your-feature
 
 3.**Commit your changes:**
-
     ```bash
     git commit -m "Add new feature"
     
 4.**Push the branch to your forked repository:**
-
     ```bash
     git push origin feature/your-feature
 
